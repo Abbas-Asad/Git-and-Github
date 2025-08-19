@@ -7,7 +7,7 @@
 - git remote -v                     // Verify the linked remote repo
 - git push origin main              // Push local commits to GitHub
 
-## Git Addional Commands
+## Git Additional Commands
 
 - git clone <repo-url>              // Clone a GitHub repository
 - git status                        // Show the current status of repo
